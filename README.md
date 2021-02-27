@@ -1,5 +1,6 @@
 
-<h3 align="center"> Olá, me chamo Erick Sousa, seja muito bem-vindo(a) ao meu perfil.<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="200px"> </h3>
+<h3 align="center"> Olá, me chamo Erick Sousa, seja muito bem-vindo(a) ao meu perfil.
+  <p> <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="200px"> </p> </h3>
 
 <br />
 
