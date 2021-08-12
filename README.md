@@ -5,7 +5,7 @@
 <br />
 
 <p>
-Sou estudante de engenharia da computação (7º semestre) na Universidade Federal de Sergipe, atualmente estou focado no desenvolvimento web (back-end).
+Sou estudante de ciência da computação (8º semestre) na Universidade Federal de Sergipe, atualmente estou focado no desenvolvimento back-end
 </p>
 
 ### Tecnologias que ja utilizei para projetos
