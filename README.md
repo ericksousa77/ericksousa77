@@ -29,7 +29,7 @@ Sou estudante de ciência da computação (8º semestre) na Universidade Federal
 
 <table>
   <tr>
-    <td><img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksousa77&layout=compact&bg_color=right,59c173,a17fe0,5d26c1&title_color=ffffff&text_color=f5f5f5" /></td>
-    <td><img width="350px" align="center" src="https://github-readme-stats.vercel.app/api?username=ericksousa77&bg_color=right,59c173,a17fe0,5d26c1&title_color=ffffff&text_color=f5f5f5&icon_color=f5f5f5&show_icons=true&include_all_commits=true" /></td>
+    <td><img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksousa77&layout=compact&theme=radical" /></td>
+    <td><img width="350px" align="center" src="https://github-readme-stats.vercel.app/api?username=ericksousa77&show_icons=true&theme=radical&count_private=true" /></td>
   </tr>  
 </table>
