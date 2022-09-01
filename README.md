@@ -11,18 +11,10 @@ Sou estudante de ciência da computação (8º semestre) na Universidade Federal
 ### Tecnologias que ja utilizei para projetos
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="C" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5"  width="30" height="30"/>
-<img src="https://i.imgur.com/Cna8B3A.png" alt="laravel" width="30" height="30"/>
-<img src="https://i.imgur.com/4Fph8Fd.png" alt="postgree" width="30" height="30"/>
-</p>
-
-### Tecnologias que estou aprendendo
-<p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="30" height="30"/>
+<img src="https://i.imgur.com/4Fph8Fd.png" alt="postgree" width="30" height="30"/>
 </p>
 
 ### Estatísticas
