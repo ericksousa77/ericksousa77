@@ -5,7 +5,7 @@
 <br />
 
 <p>
-Sou estudante de ciência da computação (8º semestre) na Universidade Federal de Sergipe, atualmente estou focado no desenvolvimento back-end
+Sou formado em Ciência da Computação pela Universidade Federal de Sergipe e atualmente sou desenvolvedor backend com foco em Node.js
 </p>
 
 ### Tecnologias que ja utilizei para projetos
