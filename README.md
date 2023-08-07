@@ -1,11 +1,13 @@
 
-<h3 align="center"> Olá, me chamo Erick Sousa, seja muito bem-vindo(a) ao meu perfil.
+<h3 align="center">
   <p> <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="200px"> </p> </h3>
 
 <br />
 
 <p>
-Sou formado em Ciência da Computação pela Universidade Federal de Sergipe e atualmente sou desenvolvedor backend com foco em Node.js
+Olá, sou Erick Sousa, um desenvolvedor backend apaixonado por transformar ideias em soluções tecnológicas inovadoras. Com 25 anos de idade, tenho me dedicado a aprimorar minhas habilidades e conhecimentos no universo da computação desde que ingressei na Universidade Federal de Sergipe, onde concluí meu bacharelado em Ciência da Computação.
+
+Minha jornada profissional como Backend Developer me permitiu mergulhar em desafios empolgantes e diversificados. Com experiência sólida no desenvolvimento de sistemas, eu domino o ambiente de execução NodeJS (Typescript/Javascript) e tenho expertise em trabalhar com diferentes bancos de dados, como PostgreSQL, MongoDB, SQL Server, MySQL, Redis e Elasticsearch. Essa diversidade me capacitou a criar soluções seguras, escaláveis e de alto desempenho, atendendo às demandas específicas de cada projeto.
 </p>
 
 ### Tecnologias que ja utilizei para projetos
