@@ -14,7 +14,7 @@ Durante minha carreira, tive a oportunidade de trabalhar em projetos significati
 Sou um entusiasta da aprendizagem contínua e estou sempre em busca de novos conhecimentos e tecnologias emergentes no universo do desenvolvimento backend. Minha habilidade de aprender rapidamente e me adaptar a ambientes dinâmicos tem sido um diferencial na minha trajetória.
 </p>
 
-### Tecnologias que ja utilizei para projetos
+### Tecnologias que ja utilizei para projetos:
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" title="Javascript" width="30" height="30"/>
