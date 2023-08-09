@@ -21,6 +21,8 @@ Sou um entusiasta da aprendizagem contínua e estou sempre em busca de novos con
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="30" height="30"/>
 <img src="https://i.imgur.com/4Fph8Fd.png" alt="postgree" width="30" height="30"/>
+<img src="https://github.com/github/explore/blob/main/topics/redis/redis.png" alt="redis" width="30" height="30"/>
+<img src="https://github.com/github/explore/blob/main/topics/elasticsearch/elasticsearch.png" alt="elasticsearch" width="30" height="30"/>
 </p>
 
 ### Estatísticas
