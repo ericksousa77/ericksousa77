@@ -27,7 +27,7 @@ Sou um entusiasta da aprendizagem contínua e estou sempre em busca de novos con
 <img src="https://github.com/github/explore/blob/main/topics/mysql/mysql.png" alt="mysql" title="MySQL" width="30" height="30"/>
 <img src="https://github.com/github/explore/blob/main/topics/docker/docker.png" alt="docker" title="Docker" width="30" height="30"/>
 <img src="https://github.com/github/explore/blob/main/topics/mongodb/mongodb.png" alt="mongodb" title="MongoDB" width="30" height="30"/>
-<img src="https://imgbin.com/png/TkW9g02T/rabbitmq-scalable-graphics-portable-network-graphics-png" alt="rabbitmq" title="RabbitMQ" width="30" height="30"/>
+<img src="https://imgur.com/a/gOm9K65" alt="rabbitmq" title="RabbitMQ" width="30" height="30"/>
 </p>
 
 ### Estatísticas
