@@ -17,15 +17,17 @@ Sou um entusiasta da aprendizagem contínua e estou sempre em busca de novos con
 ### Tecnologias que ja utilizei para projetos
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="30" height="30"/>
-<img src="https://i.imgur.com/4Fph8Fd.png" alt="postgree" width="30" height="30"/>
-<img src="https://github.com/github/explore/blob/main/topics/redis/redis.png" alt="redis" width="30" height="30"/>
-<img src="https://github.com/github/explore/blob/main/topics/elasticsearch/elasticsearch.png" alt="elasticsearch" width="30" height="30"/>
-<a href="https://nestjs.com/" target="_blank">
-  <img src="https://github.com/github/explore/blob/main/topics/nestjs/nestjs.png" alt="nestjs" width="30" height="30"/>
-</a>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" title="Javascript" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" title="Typescript" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" title="Nodejs" width="30" height="30"/>
+<img src="https://i.imgur.com/4Fph8Fd.png" alt="postgree" title="PostgreSQL" width="30" height="30"/>
+<img src="https://github.com/github/explore/blob/main/topics/redis/redis.png" alt="redis" title="Redis" width="30" height="30"/>
+<img src="https://github.com/github/explore/blob/main/topics/elasticsearch/elasticsearch.png" alt="elasticsearch" title="Elasticsearch" width="30" height="30"/>
+<img src="https://github.com/github/explore/blob/main/topics/nestjs/nestjs.png" alt="nestjs" title="Nestjs" width="30" height="30"/>
+<img src="https://github.com/github/explore/blob/main/topics/mysql/mysql.png" alt="mysql" title="MySQL" width="30" height="30"/>
+<img src="https://github.com/github/explore/blob/main/topics/docker/docker.png" alt="docker" title="Docker" width="30" height="30"/>
+<img src="https://github.com/github/explore/blob/main/topics/mongodb/mongodb.png" alt="mongodb" title="MongoDB" width="30" height="30"/>
+<img src="https://www.pngwing.com/en/free-png-azczm" alt="rabbitmq" title="RabbitMQ" width="30" height="30"/>
 </p>
 
 ### Estatísticas
