@@ -23,7 +23,7 @@ Sou um entusiasta da aprendizagem contínua e estou sempre em busca de novos con
 <img src="https://i.imgur.com/4Fph8Fd.png" alt="postgree" width="30" height="30"/>
 <img src="https://github.com/github/explore/blob/main/topics/redis/redis.png" alt="redis" width="30" height="30"/>
 <img src="https://github.com/github/explore/blob/main/topics/elasticsearch/elasticsearch.png" alt="elasticsearch" width="30" height="30"/>
-<img src="[https://nestjs.com/](https://github.com/github/explore/blob/main/topics/nestjs/nestjs.png)" alt="elasticsearch" width="30" height="30"/>
+<img src="![https://nestjs.com/](https://github.com/github/explore/blob/main/topics/nestjs/nestjs.png)" alt="elasticsearch" width="30" height="30"/>
 </p>
 
 ### Estatísticas
